@@ -17,12 +17,13 @@
 		<!-- <eody-disclaimer /> -->
 		<app-footer />
 		<v-bottom-navigation v-model="m" v-if="$vuetify.breakpoint.smAndDown" app class="bottom-navigation">
-			<v-btn value="recent" class="primary--text" to="/">
+			<v-btn value="recent" class="primary--text" :to="{ name: 'home', query: { lang: locale.code } }">
+				<!-- <v-btn value="recent" class="primary--text" to="/"> -->
 				<span>{{ $t('Home') }}</span>
 				<v-icon color="primary" small class="mb-1">fa-home</v-icon>
 			</v-btn>
-
-			<v-btn value="favorites" class="primary--text" to="/greece/">
+			<v-btn value="favorites" class="primary--text" :to="{ name: 'greece', query: { lang: locale.code } }">
+				<!-- <v-btn value="favorites" class="primary--text" to="/greece/"> -->
 				<span>{{ $t('Charts') }}</span>
 				<v-icon color="primary" small class="mb-1">fa-chart-bar</v-icon>
 			</v-btn>
@@ -46,14 +47,14 @@ export default {
 		'embed-dialog': require('@/components/content/embeds/dialog').default
 	},
 	computed: {
-		...mapGetters(['sidebar'])
+		...mapGetters(['sidebar', 'locale'])
 	},
-	data () {
+	data() {
 		return {
 			m: true
 		};
 	},
-	mounted () {
+	mounted() {
 		// const addthis = document.createElement('script');
 		// addthis.setAttribute('src', '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e6e40408bf2d5f7');
 		// document.head.appendChild(addthis);

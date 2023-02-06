@@ -33,7 +33,7 @@ export default {
 	name: 'home',
 	components: {
 		'app-header': require('@/components/app/app-header').default,
-		tabs: require('@/components/content/tabs').default,
+		// tabs: require('@/components/content/tabs').default,
 		'content-list': require('@/components/content/content-list').default,
 		// 'map-view': require('@/components/iframes/map-view').default
 	},

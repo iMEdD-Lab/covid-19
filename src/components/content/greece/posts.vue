@@ -34,7 +34,7 @@ export default {
 	name: 'posts-greece',
 	components: {
 		post: require('@/components/content/post').default,
-		'dashboard': require('@/components/iframes/dashboard').default,
+		dashboard: require('@/components/iframes/dashboard').default,
 		'greece-map-cases': require('@/components/iframes/map-view-cases').default,
 		'greece-map-municipalities': require('@/components/iframes/map-view-municipalities').default,
 		'greece-map-vaccinations': require('@/components/iframes/map-view-vaccinations').default,

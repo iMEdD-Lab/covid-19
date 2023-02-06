@@ -8,7 +8,7 @@
 						<v-icon small>fa-home</v-icon>
 					</v-btn>
 					<v-btn fab tile left class="text-inherit" color="accent" @click="$vuetify.goTo('#posts')">
-						<v-icon small>fa-home</v-icon>
+						<v-icon small>fa-chart-bar</v-icon>
 					</v-btn>
 				</div>
 			</v-scroll-y-transition>
@@ -28,21 +28,21 @@ import { mapGetters } from 'vuex';
 
 export default {
 	name: 'content-list',
-	data() {
+	data () {
 		return {
-			postsMargin: 0,
-		}
+			postsMargin: 0
+		};
 	},
 	props: ['showAltNav'],
 	computed: {
-		...mapGetters(['locale', 'view']),
+		...mapGetters(['locale', 'view'])
 	},
 	components: {
 		greece: require('@/components/content/greece/posts').default
 	},
-	mounted() {
+	mounted () {
 	}
-}
+};
 </script>
 
 <style lang="less" scoped>
