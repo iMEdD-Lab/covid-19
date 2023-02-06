@@ -7,7 +7,7 @@
 			},
 			"body": {
 				"el": [
-					"Στον διπλανό πίνακα παρουσιάζουμε τα τελευταία στοιχεία που αφορούν στην εξάπλωση της COVID-19, όπως δημοσιεύονται  στην εβδομαδιαία έκθεσή του ΕΟΔΥ για την πανδημία. Από τον Δεκέμβριο του 2022, δεν δημοσιεύεται αριθμός κρουσμάτων και τεστ."
+					"Στον διπλανό πίνακα, παρουσιάζουμε τα τελευταία στοιχεία που αφορούν στην εξάπλωση της COVID-19, όπως δημοσιεύονται στην εβδομαδιαία έκθεση του ΕΟΔΥ για την πανδημία. Από τον Δεκέμβριο του 2022, δεν δημοσιεύεται αριθμός κρουσμάτων και τεστ."
 				],
 				"en": [
 					"In the table opposite, we present the latest data on the spread of COVID-19, as published by the WHO in its weekly pandemic report. As of December 2022, no case numbers are published."
@@ -25,7 +25,7 @@
 			},
 			"body": {
 				"el": [
-					"Ο χάρτης οπτικοποιεί τα ιστορικά στοιχεία κρουσμάτων COVID-19 το διάστημα από 26 Φεβρουαρίου 2020 έως και τις 20 Δεκεμβρίου 2022, οπότε σταμάτησε η αντίστοιχη ενημέρωση από τον ΕΟΔΥ. Με όσο πιο σκούρο μπλε χρώμα χρώμα εμφανίζεται μία περιοχή, τόσο περισσότερα κρούσματα ανά 100.000 πληθυσμού έχουν καταγραφεί σε αυτήν."
+					"Ο χάρτης οπτικοποιεί τα ιστορικά στοιχεία κρουσμάτων COVID-19 το διάστημα από τις 26 Φεβρουαρίου 2020 έως και τις 20 Δεκεμβρίου 2022, οπότε σταμάτησε η αντίστοιχη ενημέρωση από τον ΕΟΔΥ. Όσο πιο σκούρο μπλε το χρώμα με το οποίο εμφανίζεται μια περιοχή, τόσο περισσότερα κρούσματα ανά 100.000 πληθυσμού έχουν καταγραφεί σε αυτήν."
 				],
 				"en": [
 					"The map visualizes the historical COVID-19 case data from 26 February 2020 to 20 December 2022, when the corresponding information from the EODY stopped. The darker the blue color of a region is shown, the more cases per 100,000 population have been recorded in that region."
@@ -43,7 +43,7 @@
 			},
 			"body": {
 				"el": [
-					"Στον χάρτη οπτικοποιούνται τα μόνα επισήμως διαθέσιμα στοιχεία που καταγράφουν τους θανάτους λόγω COVID-19 στην Ελλάδα. Τα δεδομένα <a href=\"https://www.naftemporiki.gr/politics/1304204/covid-19-sti-vouli-ta-stoicheia-gia-tous-thanatous-ana-dimo-ti-dietia-2020-2021/\">διαβιβάστηκαν</a> στη Βουλή τον Μάρτιο του 2022, από τον υπουργό Εσωτερικών, Μάκη Βορίδη και έχουν αντληθεί από το Υποσύστημα Ληξιαρχείου του Πληροφοριακού Συστήματος «Μητρώο Πολιτών». Όσο πιο σκούρο κόκκινο το χρώμα κάθε δήμου, τόσοι περισσότεροι οι θάνατοι ανά 100.000 κατοίκους του συγκεκριμένου δήμου. Διαβάστε τα θέματα που <a href=\"https://lab.imedd.org/?cpt%5B%5D=search-all&s=%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9\">έχει δημοσιεύσει στο παρελθόν</a> το iMEdD Lab για τους θανάτους από την πανδημία στην Ελλάδα."
+					"Στον χάρτη οπτικοποιούνται τα μόνα επισήμως διαθέσιμα στοιχεία για τους καταγεγραμμένους θανάτους λόγω COVID-19 στην Ελλάδα. Τα δεδομένα <a href=\"https://www.naftemporiki.gr/politics/1304204/covid-19-sti-vouli-ta-stoicheia-gia-tous-thanatous-ana-dimo-ti-dietia-2020-2021/\">διαβιβάστηκαν</a> στη Βουλή τον Μάρτιο του 2022, από τον υπουργό Εσωτερικών, Μάκη Βορίδη, και έχουν αντληθεί από το Υποσύστημα Ληξιαρχείου του Πληροφοριακού Συστήματος «Μητρώο Πολιτών». Όσο πιο σκούρο κόκκινο το χρώμα του εκάστοτε δήμου, τόσοι περισσότεροι οι θάνατοι ανά 100.000 κατοίκους στον συγκεκριμένο δήμο. Διαβάστε τα θέματα που <a href=\"https://lab.imedd.org/?cpt%5B%5D=search-all&s=%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9\">έχει δημοσιεύσει στο παρελθόν</a> το iMEdD Lab για τους θανάτους από την πανδημία στην Ελλάδα."
 				],
 				"en": [
 					"The map visualizes the only officially available data recording deaths due to COVID-19 in Greece. The data were <a href=\"https://www.naftemporiki.gr/politics/1304204/covid-19-sti-vouli-ta-stoicheia-gia-tous-thanatous-ana-dimo-ti-dietia-2020-2021/\">submitted</a> to the Greek Parliament in March 2022, by the Minister of Interior, Makis Voridis, and have been extracted from the Civil Registry Subsystem of the Information System \"Citizen Registry.\" The darker the red color of each municipality, the more deaths per 100,000 inhabitants of that municipality. Read the stories previously <a href=\"https://lab.imedd.org/?cpt%5B%5D=search-all&s=%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9\">published by iMEdD Lab</a> regarding the deaths from the pandemic in Greece."
@@ -61,10 +61,10 @@
 			},
 			"body": {
 				"el": [
-					"Ο χάρτης παρουσιάζει ανά περιφερειακή ενότητα το ποσοστό εμβολιασμού για την COVID-19 ανά 100.000 πληθυσμού. Όσο πιο σκούρο το χρώμα, τόσο μεγαλύτερη εμβολιαστική κάλυψη στη συγκεκριμένη περιοχή. Τα δεδομένα λαμβάνονται σε πραγματικό χρόνο από το <a href=\"data.gov.gr/\">data.gov.gr</a>"
+					"Ο χάρτης παρουσιάζει ανά περιφερειακή ενότητα το ποσοστό εμβολιασμού για την COVID-19 ανά 100.000 πληθυσμού. Όσο πιο σκούρο το χρώμα, τόσο μεγαλύτερη εμβολιαστική κάλυψη στη συγκεκριμένη περιοχή. Τα δεδομένα λαμβάνονται σε πραγματικό χρόνο από το <a href=\"https://data.gov.gr/\">data.gov.gr</a>."
 				],
 				"en": [
-					"The map shows the vaccination rate for COVID-19 per 100,000 population by regional unit. The darker the color, the higher the vaccination coverage in that region. The data are taken in real-time from <a href=\"data.gov.gr/\">data.gov.gr</a>"
+					"The map shows the vaccination rate for COVID-19 per 100,000 population by regional unit. The darker the color, the higher the vaccination coverage in that region. The data are taken in real-time from <a href=\"https://data.gov.gr/\">data.gov.gr</a>."
 				]
 			},
 			"component": {
@@ -79,7 +79,7 @@
 			},
 			"body": {
 				"el": [
-					"Στον διπλανό πίνακα μπορείτε να ψάξετε στη γραμμή αναζήτησης τον δήμο που επιθυμείτε προκειμένου να δείτε τους θανάτους από COVID-19 το 2020 και 2021."
+					"Στον διπλανό πίνακα, μπορείτε να ψάξετε στη γραμμή αναζήτησης τον δήμο που επιθυμείτε, προκειμένου να δείτε τον αριθμό των θανάτων από COVID-19 τα έτη 2020 και 2021."
 				],
 				"en": [
 					"In the adjacent table, you can search in the search bar for the desired municipality to see the deaths from COVID-19 in 2020 and 2021."
@@ -97,7 +97,7 @@
 			},
 			"body": {
 				"el": [
-					"Το γράφημα αναπαριστά σε απόλυτους αριθμούς τα κρούσματα, τους θανάτους και τις διασωληνώσεις από την COVID-19 ανά ηλικιακή ομάδα. Κλικάροντας πάνω σε κάθε ηλικιακή ομάδα, απομονώνεται το γράφημα που την αφορά. Οι ποσοστιαίες τιμές που εμφανίζονται στο παράθυρο, όταν κλικάρεις πάνω στο γράφημα, αποτελούν υπολογισμό επί του συνόλου των κρουσμάτων/ θανάτων/ διασωληνώσεων και όχι επί του συνόλου του πληθυσμού που ανήκουν σε αυτή την ηλικιακή ομάδα."
+					"Το γράφημα αναπαριστά, σε απόλυτους αριθμούς, τα κρούσματα, τους θανάτους και τις διασωληνώσεις από την COVID-19 ανά ηλικιακή ομάδα. Κάνοντας «κλικ» στην εκάστοτε ηλικιακή ομάδα, απομονώνεται το γράφημα που την αφορά. Οι ποσοστιαίες τιμές που εμφανίζονται στο παράθυρο, με «κλικ» πάνω στο γράφημα, αποτελούν υπολογισμό επί του συνόλου των κρουσμάτων/θανάτων/διασωληνώσεων -και όχι επί του συνόλου του πληθυσμού που ανήκουν σε αυτήν την ηλικιακή ομάδα."
 				],
 				"en": [
 					"The graph shows the absolute numbers of cases, deaths, and intubations from COVID-19 by age group. Clicking on each age group isolates the chart for that age group. The percentage values displayed in the tooltip are calculated on the total number of cases/ deaths/ intubations and not on the entire population belonging to that age group."
@@ -153,8 +153,8 @@
 			},
 			"body": {
 				"el": [
-					"Ο πίνακας ταξινομείται βάσει του αριθμού κρουσμάτων ανά 100.000 κατοίκους. Στο διάγραμμα «Ανά εβδομάδα», αποτυπώνεται χρωματικά η έξαρση κρουσμάτων ανά περιοχή της χώρας, βάσει του εβδομαδιαίου αντίστοιχου συνόλου κρουσμάτων ανά 100.000 πληθυσμού. Όσο πιο σκούρο το χρώμα, τόσα περισσότερα τα κρούσματα εκείνη την εβδομάδα, συγκριτικά με τις προηγούμενες, στην ίδια περιοχή.",
-					"Πατώντας στο πεδίο «Σύνολο» αλλάζει η ταξινόμηση βάσει του συνόλου των κρουσμάτων. Αντίστοιχα, το ίδιο συμβαίνει πατώντας στο πεδίο «Ανά 100k»."
+					"Ο πίνακας ταξινομείται βάσει του αριθμού κρουσμάτων ανά 100.000 κατοίκους. Στο διάγραμμα «Ανά εβδομάδα», αποτυπώνεται χρωματικά η έξαρση κρουσμάτων ανά περιοχή της χώρας, βάσει του εβδομαδιαίου αντίστοιχου συνόλου κρουσμάτων ανά 100.000 πληθυσμού. Όσο πιο σκούρο το χρώμα, τόσα περισσότερα τα κρούσματα εκείνη την εβδομάδα, συγκριτικά με τις προηγούμενες, στην ίδια περιοχή.", 
+					"Πατώντας στο πεδίο «Σύνολο», αλλάζει η ταξινόμηση βάσει του συνόλου των κρουσμάτων. Αντίστοιχα, το ίδιο συμβαίνει πατώντας στο πεδίο «Ανά 100 χιλ.»."
 				],
 				"en": [
 					"The table presents subnational COVID-19 cases sorted by normalized figures per 100,000 residents. The “Weekly” chart represents the outburst of cases broken down by area, colored by the weekly total number of cases respectively, per 100,000 residents. The darker the color, the more cases are reported in each area within the week of reference, compared to previous.",
