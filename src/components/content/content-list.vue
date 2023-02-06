@@ -35,14 +35,14 @@ export default {
 	},
 	props: ['showAltNav'],
 	computed: {
-		...mapGetters(['locale', 'view'])
+		...mapGetters(['locale', 'view']),
 	},
 	components: {
 		greece: require('@/components/content/greece/posts').default
 	},
 	mounted () {
 	}
-};
+}
 </script>
 
 <style lang="less" scoped>
