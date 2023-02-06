@@ -16,7 +16,7 @@
 			</span>
 		</a> -->
 		<span class="caption mr-2">
-			Developed initially in collaboratin with
+			Developed initially in collaboration with
 			<a class="caption" href="https://cvcio.org/" target="_blank">CVCIO</a>.
 			Re-manufactured & maintained by
 			<a class="caption" href="https://sociality.gr/" target="_blank">Sociality</a>.
